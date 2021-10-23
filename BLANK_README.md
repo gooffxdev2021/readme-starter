@@ -82,7 +82,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### Features
+- easy-to-use help menu
+- welcome message and image
+- auto-role asignment
+- leveling and ranking system with leaderboards
+- bot invite link
+- auto-moderation
+- musicplayer channel without prefix requirement
+- auto status changer
+- temporary voice channel system
+- and much more...
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -93,6 +103,7 @@
 * [Svelte](https://svelte.dev/)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
+* [Node.js](https://nodejs.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
